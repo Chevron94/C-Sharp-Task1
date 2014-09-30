@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AllStudents>
+    <Student>
+      <FIO>Иванов А.И.</FIO>
+      <Course>1</Course>
+      <Group>1</Group>
+      <Status>Бюджет</Status>
+      <Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>История</string>
+            <string>Геометрия</string>
+            <string>Логика</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>4</int>
+            <int>5</int>
+            <int>5</int>
+            <int>4</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>Экономика</string>
+            <string>Дискр. Мат.</string>
+            <string>Алгебра</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>3</int>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+          </Mark>
+        </Session>
+      </Session>
+    </Student>
+    <Student>
+      <FIO>Петров И.В.</FIO>
+      <Course>1</Course>
+      <Group>1</Group>
+      <Status>Бюджет</Status>
+      <Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>История</string>
+            <string>Геометрия</string>
+            <string>Логика</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+            <int>3</int>
+            <int>4</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>Экономика</string>
+            <string>Дискр. Мат.</string>
+            <string>Алгебра</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>3</int>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+          </Mark>
+        </Session>
+      </Session>
+    </Student>
+    <Student>
+      <FIO>Сидоров К.Т.</FIO>
+      <Course>2</Course>
+      <Group>1</Group>
+      <Status>Бюджет</Status>
+      <Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>История</string>
+            <string>Геометрия</string>
+            <string>Логика</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+            <int>3</int>
+            <int>4</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>Экономика</string>
+            <string>Дискр. Мат.</string>
+            <string>Алгебра</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>3</int>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>История</string>
+            <string>Геометрия</string>
+            <string>Логика</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+            <int>3</int>
+            <int>4</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>Экономика</string>
+            <string>Дискр. Мат.</string>
+            <string>Алгебра</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>3</int>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+          </Mark>
+        </Session>
+      </Session>
+    </Student>
+    <Student>
+      <FIO>Данилов И.В.</FIO>
+      <Course>1</Course>
+      <Group>6</Group>
+      <Status>Бюджет</Status>
+      <Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>История</string>
+            <string>Геометрия</string>
+            <string>Логика</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>3</int>
+            <int>3</int>
+            <int>5</int>
+            <int>4</int>
+            <int>3</int>
+          </Mark>
+        </Session>
+        <Session>
+          <Subjet>
+            <string>Мат. Ан.</string>
+            <string>Экономика</string>
+            <string>Дискр. Мат.</string>
+            <string>Алгебра</string>
+            <string>ЭВМ</string>
+          </Subjet>
+          <Mark>
+            <int>4</int>
+            <int>2</int>
+            <int>5</int>
+            <int>4</int>
+            <int>5</int>
+          </Mark>
+        </Session>
+      </Session>
+    </Student>
+  </AllStudents>
+</Students>

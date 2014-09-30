@@ -1,0 +1,10 @@
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\bin\Debug\Task1.exe
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\bin\Debug\Task1.pdb
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.Form1.resources
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.Properties.Resources.resources
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.csproj.GenerateResource.Cache
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.exe
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.pdb
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.Editor_And_Watcher_Form.resources
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.Input.resources
+D:\Labs\3 курс\1 семестр\C#\Task1\Task1\obj\x86\Debug\Task1.csprojResolveAssemblyReference.cache
